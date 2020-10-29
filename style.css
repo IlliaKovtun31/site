@@ -1,0 +1,50 @@
+h1 {
+  color: #282C34FF;
+  font-family: "Times New Roman", Georgia, serif;
+  font-style: italic;
+}
+
+table {
+  background-color: #86F789FF;
+  border-style: solid;
+  border-color: #66FF99FF;
+  border-radius: 25px;
+  border-width: 5px;
+}
+
+img {
+  border-style: solid;
+  border-color: #66FF99FF;
+  border-width: 3px;
+  border-radius: 100%;
+  height: 230px;
+}
+
+body {
+  background-image: url(img/background.gif);
+}
+
+.tableskills {
+  background-image: url(img/skill.jpg);
+  border-spacing: 50px 25px;
+  margin: auto;
+}
+
+#infotable {
+  background-image: url(img/info.png);
+  margin: auto;
+  border-spacing: 30px 10px;
+}
+
+h5:hover {
+  font-weight: 500;
+  text-decoration: overline underline dotted blue;
+}
+
+form {
+  background-image: url(contact.png);
+}
+
+p {
+  color: #66FF99FF;
+}
